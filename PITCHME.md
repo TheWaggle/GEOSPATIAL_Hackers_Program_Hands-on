@@ -59,3 +59,5 @@
 * [SPARQL](https://www.slideshare.net/uedayou/web-apisparql)
 * [QGIS](https://www.qgis.org/)
 * [地図tile](https://wiki.openstreetmap.org/wiki/JA:%E3%82%BF%E3%82%A4%E3%83%AB)
+
+---?survey=https://docs.google.com/forms/d/e/1FAIpQLSdabsWuQXStcoocJffMSv535a6KyZ_1VL6PSNISr4nuaPYdDQ/viewform?vc=0&c=0&w=1&usp=mail_form_link&color=#B481BB
