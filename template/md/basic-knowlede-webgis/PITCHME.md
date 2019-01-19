@@ -4,8 +4,11 @@
 # @css[headline](ちょっとだけ)
 
 ---
-## ハンズオンで作るゴールイメージ
+@snap[midopoint north-west text-06]
+### 本日のゴールイメージ
+@snapend
 
+@img[span-60](template/img/finish.png)
 
 ---
 @snap[midopoint north-west text-06]
