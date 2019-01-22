@@ -1,11 +1,96 @@
----?color=#F79F79
-@transition[none]
-# @css[headline](GEOSPATIAL Hackers Program Hands-on)
+---?color=#3A8FB7
 
----?color=#79F79F
-# @css[headline](オープンデータを利用した地図アプリを作ろう!)
+@snap[west]
+# @css[headline top-left specified-font](GEOSPATIAL<br>Hackers Program<br>Hands-on)
+@snapend
+
+---?color=#3A8FB7
+
+@snap[west]
+# @css[sub-headline specified-font](オープンデータを<br>利用して<br>地図アプリを作ろう!)
+@snapend
 
 ---
+# @css[slide-title blue specified-font](ハンズオン講習会の流れ)
+
+@css[space-0]()
+
+@ol[roman](false)
+- Web基礎知識
+- 環境構築
+- APIServerの構築
+- 地図の表示
+- 外部API呼び出し
+- DB操作
+- 内部API呼び出し
+- 地図へのポイント追加
+- 自分の緯度経度の取得
+@olend
+
+---?color=#3A8FB7
+@css[page-number blue]([2] 環境構築)
+# @css[slide-title specified-font](（例）環境構築)
+
+@snap[west slide-contents]
+
+@box[rounded box-style](今回の開発に必要なシステムやソフトウェアを、<br>自分のPCで使えるように準備します。)
+
+@ol[roman](false)
+- Firefox
+- RestClient
+- テキストエディタ
+- Elixir
+- node.js
+- PostgreSQL
+- Phoenixframework
+@olend
+
+@snapend
+
+---
+@css[page-number lightblue]([2] 環境構築 ＞ [1] Firefox)
+# @css[slide-title blue specified-font](（例）Firefoxのダウンロード)
+
+@snap[south-east]
+@img[span-60 height-50 margin-right-0](template/img/environment/postgresql.png)
+@snapend
+
+@snap[west slide-contents]
+
+<u>[Firefox](https://www.mozilla.org/ja/firefox/new/)</u>を<br>
+ダウンロードします。
+
+@snapend
+
+---
+@css[page-number lightblue](ハンズオン講習会の流れ[2] ＞ 環境構築[1] Firefox)
+# @css[slide-title blue specified-font](（例）ソースコード)
+
+@css[space-0]()
+
+@gist[html zoom-05](Yoosuke/4b171606c9390418467b961085894915)
+
+@[1](sample1)
+@[2,4](sample2)
+@[6-8](sample3)
+
+---
+@css[page-number lightblue](ハンズオン講習会の流れ[2] ＞ 環境構築[1] Firefox)
+# @css[slide-title blue specified-font](（例）Webページを埋め込む)
+
+<iframe class="iframe-style" src="http://nipponcolors.com/#chigusa"></iframe>
+
+---
+1. Webの仕組み
+2. HTML
+3. CSS
+4. JavaScript
+5. Elixir
+6. 型
+7. Elixirの型
+---
+
+---?color=#3a8fb7
 
 @snap[north-west]
 ## The Agenda
